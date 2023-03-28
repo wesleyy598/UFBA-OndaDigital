@@ -1,0 +1,56 @@
+#include <stdio.h>
+#include <math.h>
+
+int main()
+{
+  
+float n1,n2,resultado;
+char operador;
+
+printf("\n===== Calculadora =====");
+printf("\n1 - Soma");
+printf("\n2 - Subtração");
+printf("\n3 - Multiplicação");
+printf("\n4 - Divisão");
+printf("\n5 - Potenciação");
+printf("\n6 - Sair\n");
+
+printf("\nDigite o primeiro número:");
+scanf ("%f",&n1);
+printf("\nDigite o segundo número:");
+scanf ("%f",&n2);
+printf("\nDigite o operador:");
+scanf ("%s",&operador);
+
+if (operador=='+')
+{
+resultado=n1+n2;    
+printf ("\nO resultado é: %f",resultado);
+}   
+
+else
+
+if (operador=='-') 
+{
+resultado=n1-n2;
+printf ("\nO resultado é: %f",resultado);
+}
+
+else
+
+if (operador=='/') 
+{
+resultado=n1/n2;
+printf ("\nO resultado é: %f",resultado);
+}
+
+else  
+
+if (operador=='*') 
+{
+resultado=n1*n2;
+printf ("\nO resultado é: %f",resultado);
+}
+
+return 0;
+}

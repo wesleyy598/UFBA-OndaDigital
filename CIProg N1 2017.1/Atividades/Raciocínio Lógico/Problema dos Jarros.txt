@@ -1,0 +1,12 @@
+Encha o primeiro jarro com 5 unidades
+com esse jarro, encha o segundo jarro
+
+assim teremos no primeiro balde 2 unidades de água e no segundo balde 3 unidades de água
+
+despeje as 3 unidades de água do segundo jarro na privada
+com o primeiro jarro encha o segundo e ficará 2 unidades de água no segundo jarro
+encha o primeiro jarro, e despeje no segundo jarro
+
+assim ficará no primeiro jarro 4 unidades de água.
+
+obs: com apenas 6 movimentos.

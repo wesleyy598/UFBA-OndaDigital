@@ -1,0 +1,17 @@
+#include<stdio.h>
+
+main(){ 
+char nome; 
+float SALARIOFIXO, TOTALDEVENDAS;
+
+printf("Digite o nome do vendedor: "); 
+scanf("%s",&nome);
+
+printf("Digite o seu salario fixo: "); 
+scanf("%f",&SALARIOFIXO);
+
+printf("Digite o total de vendas (em dinheiro): "); 
+scanf("%f",&TOTALDEVENDAS);
+
+printf("TOTAL: %.2f\n", (0.15*TOTALDEVENDAS) + SALARIOFIXO); 
+}

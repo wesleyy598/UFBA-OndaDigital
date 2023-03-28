@@ -1,0 +1,8 @@
+void MostraProdutos(Produto p[], int tamanho)
+    for(int i = 0; i < tamanho; i++){
+        printf ("Produto: %s - %f", p[i].nome, p[i].valor); 
+    }
+}//fecha chave
+
+MostraProdutos(mercado, MAX_MERCADO);
+MostraProdutos(carrinho.produto, carrinho.quantidade);

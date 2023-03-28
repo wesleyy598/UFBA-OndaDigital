@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+int main(){
+
+float peso;
+
+printf("Digite seu peso: ");
+scanf("%f",&peso);
+if(peso<18.5)
+{
+printf("Abaixo do peso");
+}
+else if(peso>=18.5 && peso<25.0)
+{
+printf("Peso ideal");
+}
+else if (peso>=25.0)
+{
+printf("Acima do peso");
+}
+
+return 0;
+}

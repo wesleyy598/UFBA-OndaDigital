@@ -1,0 +1,6 @@
+Vire as duas ampulhetas e inicie
+o jogo irá parar quando a ampulheta de 7 minutos completar o tempo dela
+quando isso acontecer vira a ampulheta de 7 minutos novamente e inicie o jogo
+e novamente o jogo irá parar quando a ampulheta de 11 minutos completar o seu tempo
+quando isso acontecer vire a ampulheta de 7 minutos 
+e a meta de tempo estará concluída com 15 minutos.

@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main(){
+  double  a, b, c, x;
+  
+  printf("digite o valor de a: ");
+  scanf("%lf", &a);
+  printf("digite o valor de b: ");
+  scanf("%lf", &b);
+  printf("digite o valor de c: ");
+  scanf("%lf", &c);
+  x = (a*2 + b*3 + c*5)/10;
+  printf(" MEDIA = : %lf\n", x);
+  return 0;
+}

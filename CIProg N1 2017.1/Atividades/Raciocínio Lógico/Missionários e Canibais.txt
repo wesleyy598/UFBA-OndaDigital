@@ -1,0 +1,13 @@
+Para não ficar confuso, darei nome as duas margens do rio, sendo que quando iniciamos o jogo eles estão na MARGEM 1, logo a outra margem, será dado o nome de MARGEM 2.
+
+Primeiro colocaremos um missionário e um canibal no barco para chegar ao outro lado do rio (MARGEM 2)
+ao chegar, deixaremos um canibal, e voltaremos com o missionário para a MARGEM 1
+ao chegar, deixaremos o missionário e pegaremos dois canibais e voltamos para a MARGEM 2
+ao chegar, deixaremos um canibal e voltaremos com um canibal para a MARGEM 1
+ao chegar, deixaremos o canibal e pegaremos 2 missionários para a MARGEM 2
+ao chegar, deixaremos um missionário e pegaremos um canibal e voltamos para a MARGEM 1
+ao chegar, deixaremos o canibal e pegamos outro missionário e fazemos a atravessia para a MARGEM 2
+ao chegar, deixaremos os dois missionários e pegaremos o canibal e voltamos para a MARGEM 1
+ao chegar, deixaremos um canibal, e pegamos dois canibais e voltamos para a MARGEM 2
+ao chegar, deixaremos um e voltamos para a MARGEM 1 para pegar o outro canibal
+ao chegar á MARGEM 2 com os dois canibais restantes, conseguiremos fazer uma atravessia bem sucedida, de acordo com as regras estabelici

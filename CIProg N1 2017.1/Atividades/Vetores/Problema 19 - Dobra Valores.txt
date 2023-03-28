@@ -1,0 +1,28 @@
+#include <stdio.h>
+
+int main() 
+{
+  const n = 8; 
+  int a[n], b[n]; 
+  int i; 
+
+  for (i=0; i<n; i++) 
+  {
+    printf("Informe o %d e o elemento de %d: ", (i+1), n);
+    scanf("%d", &a[i]);
+  }
+
+  for (i=0; i<n; i++) 
+  {
+    b[i] = a[i] * 2;
+  }
+
+  printf("\n\ni- a[i]   b[i] = a[i] * 2\n");
+  printf("**************************\n");
+  for (i=0; i<n; i++) {
+    printf("%d- %4d   %4d\n", i, a[i], b[i]);
+  }
+  printf("*************************");
+  
+  return 0;
+}

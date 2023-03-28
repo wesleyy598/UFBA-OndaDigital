@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+int main()
+{
+float num1, media, total = 0.0;
+int unidades, i = 1;
+
+while(i <= 6) 
+{
+scanf ("%f", &num1);
+if(num1>0)
+{
+printf("Positivo\n", num1);
+unidades ++;
+total+=num1;
+}
+i++;
+}
+
+media = total / unidades;
+printf("%.1f\n %d valores positivos", media, unidades);
+
+return 0;
+}

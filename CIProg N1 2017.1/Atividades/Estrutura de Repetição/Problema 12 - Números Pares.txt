@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main()
+{
+int num=2;
+
+while(num<=100)
+{
+printf("num: %d\n", num);
+num=num+2;
+}
+
+return 0;
+}

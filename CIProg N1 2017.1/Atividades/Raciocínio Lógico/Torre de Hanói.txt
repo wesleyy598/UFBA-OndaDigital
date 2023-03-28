@@ -1,0 +1,15 @@
+Primeiro temos que dá nomes aos três discos para podermos identifica-los:
+Disco pequeno
+Disco médio
+Disco grande
+
+
+Mova o disco pequeno para a TORRE 2
+Mova o disco médio para a TORRE 3
+Mova o disco pequeno para a TORRE 3
+Mova o disco grande para a TORRE 2
+Mova o disco pequeno para a TORRE 1
+Mova o disco médio para a TORRE 2
+Mova o disco pequeno para a TORRE 2
+
+Desta forma movemos todos os discos conforme as regras, para o pino da direita (TORRE 2), com apenas 7 movimentos.

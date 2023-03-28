@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main(){
+int A, B, C, D, X;
+
+printf("Digite o valor de A: ");
+scanf("%d", &A);
+printf("Digite o valor de B: ");
+scanf("%d", &B);
+printf("Digite o valor de C: ");
+scanf("%d", &C);
+printf("Digite o valor de D: ");
+scanf("%d", &D);
+X = (A * B - C * D);
+printf(" DIFERENCA = : %d\n", X);
+return 0;
+}
